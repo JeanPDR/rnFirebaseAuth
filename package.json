@@ -9,10 +9,13 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-navigation/native": "react-navigation/native",
     "expo": "~47.0.12",
     "expo-status-bar": "~1.4.2",
+    "firebase": "^9.17.1",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-native": "0.70.5",
+    "react-navigation-stack": "react-navigation/stack"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
